@@ -1,4 +1,8 @@
-static class Graph 
+import java.util.LinkedList; 
+  
+public class GFG  
+{ 
+    static class Graph 
     { 
         int V; 
         LinkedList<Integer> adjListArray[]; 
